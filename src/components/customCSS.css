@@ -1,0 +1,13 @@
+.custom-height {
+    border: 2px solid red;
+    min-height: 30vh; /* Adjust the height as needed */
+    width: 50%;
+}
+
+.mg{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1rem;
+    margin: 1rem;
+}
